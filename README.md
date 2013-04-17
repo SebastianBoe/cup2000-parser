@@ -1,7 +1,7 @@
 cup2000-parser
 ==============
 
-Some code for parsing the output of cup2000 (www.cup2000.dk) and generating some informative match statistics. First used during UBM 2013 in Trondheim.
+Some code for parsing the output of cup2000 (www.cup2000.dk) and generating some informative match statistics in html/css. First used during UBM 2013 in Trondheim.
 
 Dependencies
 ==============
@@ -12,3 +12,7 @@ Usage
 It is meant to be started by executing "run".
 The program assumes there will be a file called resultater.csv that will be regularly updated. 
 This file is exported manually from cup2000.
+
+Development
+==============
+It is the wish of the author that other programmers/badminton players will help out with future development.
