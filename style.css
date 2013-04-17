@@ -1,0 +1,36 @@
+body {
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+}
+body img {
+    width:150px; 
+}
+body h1 {
+    display: inline;
+    font-size: 70px;
+    margin-left: 70px;
+    vertical-align: text-bottom;
+}
+table {
+    width: 100%;
+    border: 1px solid black;
+    border-bottom: none;
+    border-spacing: 0;
+    margin-top: 10px;
+    font-size: 18px;
+}
+th, td {
+    text-align: left;
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+th {
+    background-color: #275f2a;
+    color: white;
+}
+tr:nth-child(odd) {
+    background-color: #c9e9cb;
+}
+tr td:nth-child(1) {
+    font-weight: bold;
+    /*text-align: center;*/
+}
