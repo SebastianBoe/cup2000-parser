@@ -17,6 +17,7 @@ The intended usage is that you have one machine in the secretary running cup2000
 
 The display machine needs to execute "run" e.g. like ./run and it needs to open the html files with some browser.
 The browser should be doing auto-refresh to show the newest version of the html file, Opera supported this in 2012.
+Remember to turn off the screen saver and auto-sleep on the display machine!
 
 Development
 ==============
